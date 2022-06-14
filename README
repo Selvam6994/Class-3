@@ -1,0 +1,37 @@
+1.For the given JSON iterate over all for loops (for, for in, for of, forEach)
+Ans:1.for loop
+let json = [{
+    "id" : "1", 
+    "msg"   : "hi",
+    "tid" : "2013-05-05 23:35",
+    "fromWho": "hello1@email.se"
+}];
+for(let i = 0; i < json.length; i++) {
+    let obj = json[i];
+
+    console.log(obj.id);
+}
+‍
+2.for each
+let json = [{
+    "id" : "1", 
+    "msg"   : "hi",
+    "tid" : "2013-05-05 23:35",
+    "fromWho": "hello1@email.se"
+}];
+json.forEach(function(obj) { 
+console.log(obj.id); });
+
+2.Create your own resume data in JSON format
+var person = {
+    Name          : 'Selvakumar.S',
+    Age           :  27,
+    Street        : ' xyz st',
+    Area          :  'abc nagar',
+    Qualification :'BE/Mechatronics'
+    
+
+    };
+    let personJSON = JSON.stringify(person);
+    console.log(personJSON);
+    console.log(person);
