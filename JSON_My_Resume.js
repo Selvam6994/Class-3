@@ -1,32 +1,32 @@
 let my_Resume = [{
-    Name : "S.Selvakumar",
+    Name : "My Name",
        Location : {
-       "Door number" : "2/217 KUDAM NAGAR MAIN ROAD",
-       "Village" :"THANDIKIDI",
-       "Town" : "KODAIKANAL.",
-       "PIN CODE" : 624216
+       "Door number" : "Door number",
+       "Village" :"village",
+       "Town" :  "Town",
+       "PIN CODE" :  "PIN CODE"
      },
-     Phone : +91_8111033297,
-     Email: "selvamyoor@gmail.com"
+     Phone : "Phone" ,
+     Email: "selxxxxxxr@gmail.com"
      },
        carrier_objective = ("To be a part of an organization where continuous learning and growth is assured and fulfilling the expectations out of my knowledge, skills, experience and there by reach the organization goal."),
       experience_summary = {
-      "Company Details": "Lakshmi Life Sciences Ltd,Coimbatore.",  
+      "Company Details": "xyzs Ltd,Coimbatore.",  
     "Role": "Graduate Engineer Trainee" , 
-    "Nature of work": "Panel wiring, Pneumatics and sensor selection" ,
+    "Nature of work": "Nature of work" ,
     "Duration" : "May 2018- Dec 2018" 
 },
 educational_qualification = {
     "Course" : "B.E./Mechatronics",
-    "Institution" : "Chennai Institute of Technology",
+    "Institution" : "ABC Institute of Technology",
     "CGPA"    : 6.7,
     "Starting year" : 2013,
     "completed year": 2017
 
 },
 Personal_details={
-    "Father's name" : "Mr.Shanmugasundaram.S",
-    "Mother's name" : "Mrs.Kowsalya.S",
+    "Father's name" : "Father's name",
+    "Mother's name" : "Mother's name",
     "Marrital Status": "Single",
     "Nationality"  : "Indian",
     "Languages known": "Tamil,English"
